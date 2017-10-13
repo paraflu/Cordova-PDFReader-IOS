@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/etabard/Cordova-PDFReader-IOS"
+    "url": "git+https://github.com/paraflu/Cordova-PDFReader-IOS"
   },
   "keywords": [
     "cordova",
