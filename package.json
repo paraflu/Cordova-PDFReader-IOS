@@ -1,0 +1,30 @@
+{
+  "name": "PDFReader",
+  "version": "1.0.0",
+  "description": "Cordova plugin to view PDF files on iOS",
+  "cordova": {
+    "id": "com.lesfrancschatons.cordova.plugins.pdfreader",
+    "platforms": [
+      "ios"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/etabard/Cordova-PDFReader-IOS"
+  },
+  "keywords": [
+    "cordova",
+    "ios",
+    "pdf",
+    "ecosystem:cordova",
+    "cordova-ios"
+  ],
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.0.0"
+    }
+  ],
+  "author": "Georgiy Trokovets",
+  "license": "MIT"
+}
